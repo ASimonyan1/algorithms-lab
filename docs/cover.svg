@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="212" viewBox="0 0 960 212" role="img" aria-labelledby="title desc">
+<title id="title">Algorithms Lab</title><desc id="desc">12 алгоритмов. 3 структуры данных. Разбор сложности · тесты · CI</desc>
+<rect x="1" y="1" width="958" height="210" rx="20" fill="#142232" stroke="#34495F"/>
+<g font-family="Segoe UI,Arial,sans-serif"><text x="34" y="38" font-size="12" letter-spacing="2" font-weight="700" fill="#F0D58B">C++ · COMPUTER SCIENCE</text>
+<text x="32" y="90" font-size="39" font-weight="700" fill="#F3F6FC">Algorithms Lab</text>
+<text x="35" y="125" font-size="18" fill="#BBC9D9">12 алгоритмов. 3 структуры данных.</text>
+<text x="35" y="175" font-size="13" letter-spacing="1" fill="#F0D58B">C++17 / CMAKE / CTEST / GCC / MSVC</text>
+<path d="M596 35V177" stroke="#34495F"/>
+<text x="631" y="72" font-size="22" font-weight="600" fill="#F3F6FC">От идеи до проверки</text>
+<text x="632" y="108" font-size="15" fill="#A3B8CC">Разбор сложности · тесты · CI</text>
+<text x="632" y="165" font-size="16" font-weight="600" fill="#F0D58B">Открыть репозиторий →</text></g></svg>
