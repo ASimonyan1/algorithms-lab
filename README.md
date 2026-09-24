@@ -1,3 +1,5 @@
+![Algorithms Lab](docs/cover.svg)
+
 # Algorithms Lab
 
 **C++17 · СиАОД · Тесты · Разбор сложности**
