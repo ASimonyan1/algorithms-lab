@@ -1,11 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="212" viewBox="0 0 960 212" role="img" aria-labelledby="title desc">
-<title id="title">Algorithms Lab</title><desc id="desc">12 алгоритмов. 3 структуры данных. Разбор сложности · тесты · CI</desc>
-<rect x="1" y="1" width="958" height="210" rx="20" fill="#142232" stroke="#34495F"/>
-<g font-family="Segoe UI,Arial,sans-serif"><text x="34" y="38" font-size="12" letter-spacing="2" font-weight="700" fill="#F0D58B">C++ · COMPUTER SCIENCE</text>
-<text x="32" y="90" font-size="39" font-weight="700" fill="#F3F6FC">Algorithms Lab</text>
-<text x="35" y="125" font-size="18" fill="#BBC9D9">12 алгоритмов. 3 структуры данных.</text>
-<text x="35" y="175" font-size="13" letter-spacing="1" fill="#F0D58B">C++17 / CMAKE / CTEST / GCC / MSVC</text>
-<path d="M596 35V177" stroke="#34495F"/>
-<text x="631" y="72" font-size="22" font-weight="600" fill="#F3F6FC">От идеи до проверки</text>
-<text x="632" y="108" font-size="15" fill="#A3B8CC">Разбор сложности · тесты · CI</text>
-<text x="632" y="165" font-size="16" font-weight="600" fill="#F0D58B">Открыть репозиторий →</text></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="Algorithms Lab — Data structures · Invariants · Complexity">
+<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#fff" stroke-opacity=".045"/></pattern><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c30"/><stop offset="1" stop-color="#162b43"/></linearGradient></defs>
+<rect width="1200" height="280" rx="24" fill="url(#bg)"/><rect width="1200" height="280" rx="24" fill="url(#grid)"/>
+<rect x="50" y="46" width="30" height="4" rx="2" fill="#f1d67b"/>
+<text x="94" y="54" fill="#f1d67b" font-family="Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="3">05 / C++ FOUNDATIONS</text>
+<text x="48" y="139" fill="#f3f5f0" font-family="Arial,sans-serif" font-size="54" font-weight="700" letter-spacing="-2">Algorithms Lab</text>
+<text x="51" y="184" fill="#acbdd0" font-family="Arial,sans-serif" font-size="21">Data structures · Invariants · Complexity</text>
+<path d="M52 232H770" stroke="#34465b"/>
+<text x="52" y="257" fill="#8da3b8" font-family="Arial,sans-serif" font-size="12" letter-spacing="2">ASIMONYAN1  /  ENGINEERING PORTFOLIO</text>
+<g transform="translate(880 70.0)" fill="none" stroke-width="2">
+<path d="M0 30L95 0L190 45L95 80Z" stroke="#f1d67b" fill="#f1d67b" fill-opacity=".09"/>
+<path d="M0 70L95 40L190 85L95 120Z" stroke="#7d9bc1"/>
+<path d="M0 110L95 80L190 125L95 160Z" stroke="#456281"/>
+<path d="M0 30V110M190 45V125M95 80V160" stroke="#456281" stroke-dasharray="4 5"/>
+<circle cx="95" cy="0" r="5" fill="#f1d67b" stroke="none"/><circle cx="190" cy="85" r="4" fill="#7d9bc1" stroke="none"/>
+</g></svg>
